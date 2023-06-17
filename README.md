@@ -6,7 +6,7 @@ This is a simple animation page where you can see the animation on the left side
 
 1) This is the opening page.
 
-![Alt text](images/image-1.png)
+![Alt text](images/image5.png)
 
 <hr>
 
